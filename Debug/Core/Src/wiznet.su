@@ -1,0 +1,7 @@
+wiznet.c:19:6:wizchip_select	8	static
+wiznet.c:23:6:wizchip_deselect	8	static
+wiznet.c:27:9:wizchip_readByte	16	static
+wiznet.c:33:6:wizchip_writeByte	16	static
+wiznet.c:37:6:wizchip_readBuff	16	static
+wiznet.c:41:6:wizchip_writeBuff	16	static
+wiznet.c:45:6:display_netinfo	128	static
